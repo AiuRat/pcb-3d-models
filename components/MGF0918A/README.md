@@ -1,3 +1,7 @@
+<p align="center">
+  <b>English</b> | <a href="README.ru.md">Русский</a>
+</p>
+
 High-precision 3D CAD model of the Mitsubishi MGF0918A High-Power GaAs FET (L & S Band, 0.5W/4.5W class), modeled strictly according to the official manufacturer's datasheet dimensions.
 
 > **Note:** Mounting holes were not modeled because their dimensions and exact locations are not specified in the official datasheet drawing.
