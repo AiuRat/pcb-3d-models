@@ -1,3 +1,7 @@
+<p align="center">
+  <b>English</b> | <a href="README.ru.md">Русский</a>
+</p>
+
 # 3D CAD Library for Electronic Components
 
 High-accuracy 3D CAD models of electronic components modeled strictly from manufacturer datasheets.
