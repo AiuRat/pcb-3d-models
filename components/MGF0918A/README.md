@@ -1,28 +1,29 @@
-Высокоточная 3D-модель мощного GaAs-транзистора (GaAs FET) Mitsubishi MGF0918A (диапазоны L и S, класс 0.5 Вт / 4.5 Вт), разработанная в соответствии с геометрическими параметрами официального технического описания (даташита). 
+High-precision 3D CAD model of the Mitsubishi MGF0918A High-Power GaAs FET (L & S Band, 0.5W/4.5W class), modeled strictly according to the official manufacturer's datasheet dimensions.
 
-Смоделировано в Autodesk Fusion
+### Tools Used
+Autodesk Fusion (for 3D parametric modeling)
 
-### Чертеж из даташита
+### Datasheet Drawing
 
 <p align="center">
-  <img src="images/MGF0918A-drawing.png" alt="MGF0918A Чертеж из даташита">
+  <img src="images/MGF0918A-drawing.png" alt="MGF0918A Outline Drawing">
 </p>
 
-### Визуализация
+### Visual Previews
 
-| Вид сверху | Вид снизу |
+| Top View | Bottom View |
 | :---: | :---: |
-| ![MGF0918A Вид сверху](images/MGF0918A-top.png) | ![MGF0918A Вид снизу](images/MGF0918A-bot.png) |
+| ![MGF0918A Top View](images/MGF0918A-top.png) | ![MGF0918A Bottom View](images/MGF0918A-bot.png) |
 
-### Спецификация файлов
+### File Inventory
 
-* `MGF0918A.step`: Универсальный формат STEP для импорта в редакторы печатных плат (KiCad, Altium Designer) и твердотельные САПР.
-* `MGF0918A.f3d`: Исходный файл проекта Autodesk Fusion с параметрической историей построения.
-* `MGF0918A.pdf`: Официальное техническое описание, даташит (Mitsubishi Electric, декабрь 2014 г.).
-* `images/`: Директория с рендерами для предварительного просмотра и чертежом.
+* `MGF0918A.step`: Lossless, high-compatibility STEP format for PCB layout (KiCad, Altium, etc.) and mechanical CADs.
+* `MGF0918A.f3d`: Native Autodesk Fusion project file with parametric sketches and timeline.
+* `MGF0918A-datasheet.pdf`: Official technical datasheet (Mitsubishi Electric, Dec 2014).
+* `images/`: Directory containing PNG render previews and drawing.
 
-### Параметры компонента
+### Component Specifications
 
-* **Корпус:** SMD герметичный (несогласованный).
-* **Размеры:** Корпус 4.00 x 4.20 мм, толщина 1.05 мм.
-* **Назначение выводов:** (1) Затвор (Gate), (2) Сток (Drain), (3) Исток (Source / подложка).
+* **Package:** SMD Hermetic (non-matched).
+* **Dimensions:** Body 4.00 x 4.20 mm, thickness 1.05 mm.
+* **Pinout:** (1) Gate, (2) Drain, (3) Source (Backside Pattern).
