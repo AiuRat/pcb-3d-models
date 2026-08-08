@@ -1,46 +1,50 @@
+<p align="center">
+  <b>English</b> | <a href="README.ru.md">Русский</a>
+</p>
+
 # SMA Female Straight Edge Mount Connector (3D Model)
 
-3D-модель ВЧ-разъема **SMA Female (Jack / Гнездо)** для установки на край печатной платы (**Edge Mount / End Launch**).
+3D model of an **SMA Female (Jack)** RF connector for PCB edge mounting (**Edge Mount / End Launch**).
 
 ---
 
-## Превью модели
+## Model Preview
 
-| Вид сверху / сбоку (Top) | Вид снизу / контакты (Bottom) |
+| Top / Side View (Top) | Bottom View / Pins (Bottom) |
 | :---: | :---: |
-| ![Top View](images/preview_top.png) | ![Bottom View](images/preview_top.png) |
+| ![Top View](images/preview_top.png) | ![Bottom View](images/preview_bot.png) |
 
 ---
 
-## Важное примечание по размерам
+## Important Note on Dimensions
 
 > [!WARNING]
-> **Размеры модели могут отличаться от стандартного даташита!**  
-> Данная 3D-модель выполнялась **под индивидуальный заказ** с корректировкой посадочных мест и габаритов. Перед использованием модели в проектировании печатной платы и корпуса **обязательно сверяйте ключевые размеры** с вашим физическим образцом разъема.
+> **Model dimensions may differ from the standard datasheet!**  
+> This 3D model was created for a **custom order** with modified mounting geometry and overall dimensions. Before using this model in your PCB and enclosure designs, **be sure to verify key dimensions** against your physical connector sample.
 
 ---
 
-## Справочный даташит
+## Reference Datasheet
 
 ![Datasheet](datasheet.jpg)
 
 ---
 
-## Файлы в репозитории
+## Repository Files
 
-* **`sma-female-straight-edgemount.step`** — Универсальная 3D-модель (STEP) для импорта в KiCad, Altium Designer, SolidWorks и др.
-* **`sma-female-straight-edgemount.f3d`** — Исходник проекта Fusion 360.
-* **`datasheet.jpg`** — Справочный чертеж с базовыми размерами.
-* **`/images`** — Изображения рендеров модели для предпросмотра.
+* **`sma-female-straight-edgemount.step`** — Universal 3D model (STEP) for import into KiCad, Altium Designer, SolidWorks, etc.
+* **`sma-female-straight-edgemount.f3d`** — Fusion 360 project source file.
+* **`datasheet.jpg`** — Reference drawing with basic dimensions.
+* **`/images`** — Render images for preview.
 
 ---
 
-## Характеристики
+## Specifications
 
-| Параметр | Значение |
+| Parameter | Value |
 | :--- | :--- |
-| **Тип интерфейса** | SMA Female (Jack / Гнездо) |
-| **Тип монтажа** | Edge Mount / End Launch (на край платы) |
-| **Толщина платы (зазор)** | ~1.6 мм (слот 1.7 мм) |
-| **Габариты фланца** | 6.5 × 6.5 мм |
-| **Назначение** | ВЧ-компоненты (RF PCB Design) |
+| **Interface Type** | SMA Female (Jack) |
+| **Mounting Type** | Edge Mount / End Launch |
+| **PCB Thickness (Gap)** | ~1.6 mm (1.7 mm slot) |
+| **Flange Dimensions** | 6.5 × 6.5 mm |
+| **Application** | RF Components (RF PCB Design) |
