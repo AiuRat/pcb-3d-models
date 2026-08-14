@@ -23,6 +23,7 @@ Below is the list of available components in this repository:
 
 | Component Name | Category / Description | Links |
 | :--- | :--- | :---: |
+| **`ATF-26884`** | 2–16 GHz General Purpose GaAs FET (84 Plastic Package) | [View Folder](./ATF-26884) |
 | **`MGF0918A`** | GaAs Power FET / RF Power Transistor | [View Folder](./MGF0918A) |
 | **`sma-female-straight-edgemount`** | SMA Female Edge Mount PCB Connector (1.6mm) | [View Folder](./sma-female-straight-edgemount) |
 
