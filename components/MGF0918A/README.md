@@ -12,20 +12,20 @@ Autodesk Fusion
 ### Datasheet Drawing
 
 <p align="center">
-  <img src="images/MGF0918A-drawing.png" alt="MGF0918A Outline Drawing">
+  <img src="images/drawing.png" alt="MGF0918A Outline Drawing">
 </p>
 
 ### Visual Previews
 
 | Top View | Bottom View |
 | :---: | :---: |
-| ![MGF0918A Top View](images/MGF0918A-top.png) | ![MGF0918A Bottom View](images/MGF0918A-bot.png) |
+| ![MGF0918A Top View](images/top.png) | ![MGF0918A Bottom View](images/bot.png) |
 
 ### File Inventory
 
 * `MGF0918A.step`: Lossless, high-compatibility STEP format for PCB layout (KiCad, Altium, etc.) and mechanical CADs.
 * `MGF0918A.f3d`: Native Autodesk Fusion project file with parametric sketches and timeline.
-* `MGF0918A-datasheet.pdf`: Official technical datasheet (Mitsubishi Electric, Dec 2014).
+* `datasheet.pdf`: Official technical datasheet (Mitsubishi Electric, Dec 2014).
 * `images/`: Directory containing PNG render previews and drawing.
 
 ### Component Specifications
