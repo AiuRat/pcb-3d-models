@@ -12,7 +12,7 @@
 
 | Вид сверху / сбоку (Top) | Вид снизу / контакты (Bottom) |
 | :---: | :---: |
-| ![Top View](images/preview_top.png) | ![Bottom View](images/preview_bot.png) |
+| ![Top View](images/top.png) | ![Bottom View](images/bot.png) |
 
 ---
 
